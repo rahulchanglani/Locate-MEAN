@@ -1,0 +1,9 @@
+<h1>Hi {{vm.user.firstName}}!!</h1>
+
+<form class="form" ng-submit="searchPlace()">
+    <input class="form-control" g-places-autocomplete placeholder="Search Place" options="autocompleteOptions" ng-model="place" />
+    <button class="fa fa-search" type="submit"></button>
+</form>
+
+<h5>Result:</h5>
+<pre>{{place | json}}</pre>
