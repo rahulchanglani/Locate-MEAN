@@ -1,5 +1,5 @@
  {
-    "connectionString": "mongodb://localhost:27017/vokal",
+    "connectionString": "mongodb://localhost:27017/location",
     "apiUrl":  "http://localhost:3000/api",
-    "secret": "vokal"
+    "secret": "location"
 }
