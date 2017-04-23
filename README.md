@@ -1,4 +1,4 @@
-# Vokal Google Location Search MEAN app
+# Google Location Search MEAN app
 
 Instructions to run the app:
 
